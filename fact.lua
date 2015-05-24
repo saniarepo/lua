@@ -8,7 +8,10 @@ function fact(n)
 	end
 end
 
+
 print('enter number: ');
 --ввод числа
 a = io.read('*number');
 print('fact='..fact(a));
+
+
