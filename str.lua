@@ -1,3 +1,4 @@
+--строки
 print('input string:');
 str = io.read();
 n = tonumber(str); 

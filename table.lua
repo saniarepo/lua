@@ -1,3 +1,4 @@
+--таблицы
 t={"12",34,"er",'wqwq'}
 for i=1,#t do
 	print(t[i]);

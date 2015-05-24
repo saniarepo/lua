@@ -1,4 +1,4 @@
---замыкания
+--Р·Р°РјС‹РєР°РЅРёСЏ
 function newCounter()
 	local i = 0;
 	return function()

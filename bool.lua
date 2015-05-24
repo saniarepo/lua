@@ -1,3 +1,4 @@
+--Р±СѓР»РµРІС‹Рµ Р·РЅР°С‡РµРЅРёСЏ
 print("Test boolean");
 if true == nil  then
 	print("false = nil");
@@ -36,7 +37,7 @@ g = 100;
 print(g*2);
 print(_G.g*3);
 
-local a = [=[определение строки [[string]] в Lua]=]
+local a = [=[РѕРїСЂРµРґРµР»РµРЅРёРµ СЃС‚СЂРѕРєРё [[string]] РІ Lua]=]
 local b= [[
 wsjqwsqlwsqwlq;w
 qqsqwsqwsq

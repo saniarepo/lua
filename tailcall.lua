@@ -1,3 +1,4 @@
+--последний вызов
 function g(x) return 2*x; end;
 
 function f(x) return g(x); end;

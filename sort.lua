@@ -1,3 +1,4 @@
+--сортировка
 lines = {d=10,a=20,c=30}
 a={}
 for n in pairs(lines) do
