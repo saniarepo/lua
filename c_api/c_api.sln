@@ -5,6 +5,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "c_api", "c_api\c_api.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lua_run", "lua_run\lua_run.vcxproj", "{1D79349F-6063-46DC-A204-32446725EB34}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "run_func", "run_func\run_func.vcxproj", "{4DC56DAA-5974-4055-9CA4-B8CE59AC46AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -19,6 +21,10 @@ Global
 		{1D79349F-6063-46DC-A204-32446725EB34}.Debug|Win32.Build.0 = Debug|Win32
 		{1D79349F-6063-46DC-A204-32446725EB34}.Release|Win32.ActiveCfg = Release|Win32
 		{1D79349F-6063-46DC-A204-32446725EB34}.Release|Win32.Build.0 = Release|Win32
+		{4DC56DAA-5974-4055-9CA4-B8CE59AC46AF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4DC56DAA-5974-4055-9CA4-B8CE59AC46AF}.Debug|Win32.Build.0 = Debug|Win32
+		{4DC56DAA-5974-4055-9CA4-B8CE59AC46AF}.Release|Win32.ActiveCfg = Release|Win32
+		{4DC56DAA-5974-4055-9CA4-B8CE59AC46AF}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
