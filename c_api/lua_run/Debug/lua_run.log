@@ -1,0 +1,4 @@
+﻿  main.c
+j:\c\учеба\lua\work\c_api\lua_run\main.c(18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218): см. объявление "fopen"
+  lua_run.vcxproj -> J:\C\Учеба\Lua\work\c_api\Debug\lua_run.exe
